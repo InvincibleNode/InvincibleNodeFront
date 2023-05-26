@@ -1,0 +1,93 @@
+
+  @font-face {
+    font-family: "Pretendard";
+    src: url('./font/Pretendard/Pretendard-Medium.otf'
+    );
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: "Pretendard";
+    src: url('./font/Pretendard/Pretendard-Bold.otf'
+    );
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-family: "Pretendard";
+    src: url('./font/Pretendard/Pretendard-Light.otf'
+    );
+    font-weight: 300;
+  }
+
+  @font-face {
+    font-family: "Pretendard";
+    src: url('./font/Pretendard/Pretendard-Regular.otf'
+    );
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: "Pretendard";
+    src: url('./font/Pretendard/Pretendard-SemiBold.otf'
+    );
+    font-weight: 600;
+  }
+
+  @font-face {
+    font-family: "Pretendard";
+    src: url('./font/Pretendard/Pretendard-ExtraBold.otf'
+    );
+    font-weight: 800;
+  }
+
+  @font-face {
+    font-family: "Pretendard";
+    src: url('./font/Pretendard/Pretendard-Black.otf'
+    );
+    font-weight: 900;
+  }
+
+  /* 
+  Monteserrat
+  */
+  @font-face {
+    font-family: "Montserrat";
+    src: url('./font/Montserrat/Montserrat-Bold.ttf');
+    font-weight: 700;
+  }
+
+  @font-face {
+    font-family: "Montserrat";
+    src: url('./font/Montserrat/Montserrat-Medium.ttf');
+    font-weight: 500;
+  }
+
+  @font-face {
+    font-family: "Montserrat";
+    src: url('./font/Montserrat/Montserrat-SemiBold.ttf');
+    font-weight: 600;
+  }
+
+  @font-face {
+    font-family: "Montserrat";
+    src: url('./font/Montserrat/Montserrat-ExtraBold.ttf');
+    font-weight: 800;
+  }
+
+/* Poppins */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 400;
+  src: url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');;
+}
+
+
+/* Intel */
+@font-face {
+  font-family: 'Intel';
+  font-weight: 700;
+  src: url('./font/Intel/Inter-Bold.ttf');
+}
